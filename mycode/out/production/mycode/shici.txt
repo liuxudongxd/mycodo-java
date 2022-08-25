@@ -1,0 +1,9 @@
+public class shici{
+	public static void main(String[] args){
+			System.out.printle("¹þ¹þ");
+		
+		
+	}
+	
+	
+}
